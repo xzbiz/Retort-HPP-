@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import Image from "next/image"<Image src="/R2B2.png" alt="Logo" width={60} height={60} className="mr-4" />
+import Image from "next/image"
 
 import { Trash2, Plus } from "lucide-react"
 import { Input } from "@/components/ui/input"
